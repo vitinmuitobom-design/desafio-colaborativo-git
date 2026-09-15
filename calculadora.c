@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+case 2:
+    resultado = num1 - num2;
+    printf("Resultado: %.2f\n", resultado);
+    break;
+=======
 #include <stdio.h>
 
 
@@ -26,3 +32,4 @@ int main(){
 
    
 }
+>>>>>>> 70e3d80478bc81eec50eac5e79aeb184659f64bb
