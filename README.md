@@ -1,6 +1,6 @@
 # desafio-colaborativo-git
 
-# Desafio Colaborativo Git
+<H2>Desafio Colaborativo Git</H2> 
 
 ## Integrantes
 
