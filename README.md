@@ -4,6 +4,6 @@
 
 ## Integrantes
 
-- Victor Daniel
-- Thiago Oliveira 
-- Arthur lima bezerra
+- Victor Daniel responsavel pela soma e cabeçalho
+- Thiago Oliveira  responsável pela subtraçao
+- Arthur lima bezerra responsavel pela multiplicaçao 
